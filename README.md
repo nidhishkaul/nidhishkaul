@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nidhishkaul
 - 👀 I’m interested in Development 
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on Full Stack Web Development
+- 🌱 I’m currently learning AI and DATA SCIENCE
+- 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me: Gmail: nidhish.kaul@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
